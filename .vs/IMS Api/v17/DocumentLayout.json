@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\jatabilog\\Desktop\\My Projects\\IMS Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A08C34E-53F9-494D-9F9D-B22B340AB78E}|IMS Api.csproj|c:\\users\\jatabilog\\desktop\\my projects\\ims api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A08C34E-53F9-494D-9F9D-B22B340AB78E}|IMS Api.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A08C34E-53F9-494D-9F9D-B22B340AB78E}|IMS Api.csproj|c:\\users\\jatabilog\\desktop\\my projects\\ims api\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A08C34E-53F9-494D-9F9D-B22B340AB78E}|IMS Api.csproj|solutionrelative:dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A08C34E-53F9-494D-9F9D-B22B340AB78E}|IMS Api.csproj|c:\\users\\jatabilog\\desktop\\my projects\\ims api\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A08C34E-53F9-494D-9F9D-B22B340AB78E}|IMS Api.csproj|solutionrelative:models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A08C34E-53F9-494D-9F9D-B22B340AB78E}|IMS Api.csproj|c:\\users\\jatabilog\\desktop\\my projects\\ims api\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A08C34E-53F9-494D-9F9D-B22B340AB78E}|IMS Api.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A08C34E-53F9-494D-9F9D-B22B340AB78E}|IMS Api.csproj|c:\\users\\jatabilog\\desktop\\my projects\\ims api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A08C34E-53F9-494D-9F9D-B22B340AB78E}|IMS Api.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A08C34E-53F9-494D-9F9D-B22B340AB78E}|IMS Api.csproj|c:\\users\\jatabilog\\desktop\\my projects\\ims api\\ims api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9A08C34E-53F9-494D-9F9D-B22B340AB78E}|IMS Api.csproj|solutionrelative:ims api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A08C34E-53F9-494D-9F9D-B22B340AB78E}|IMS Api.csproj|c:\\users\\jatabilog\\desktop\\my projects\\ims api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,36 +42,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\My Projects\\IMS Api\\DTO\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\jatabilog\\Desktop\\My Projects\\IMS Api\\DTO\\ProductDTO.cs",
+              "RelativeToolTip": "DTO\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T06:51:15.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\My Projects\\IMS Api\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "Models\\Products.cs",
+              "ToolTip": "C:\\Users\\jatabilog\\Desktop\\My Projects\\IMS Api\\Models\\Products.cs",
+              "RelativeToolTip": "Models\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T06:49:04.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMS Api.http",
+              "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\My Projects\\IMS Api\\IMS Api.http",
+              "RelativeDocumentMoniker": "IMS Api.http",
+              "ToolTip": "C:\\Users\\jatabilog\\Desktop\\My Projects\\IMS Api\\IMS Api.http",
+              "RelativeToolTip": "IMS Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-02T06:48:28.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\My Projects\\IMS Api\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\jatabilog\\Desktop\\My Projects\\IMS Api\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T05:51:54.885Z"
+              "WhenOpened": "2025-01-02T05:51:54.885Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\My Projects\\IMS Api\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\jatabilog\\Desktop\\My Projects\\IMS Api\\Controllers\\UserController.cs",
               "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-02T05:51:13.302Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\My Projects\\IMS Api\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -71,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Users.cs",
               "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\My Projects\\IMS Api\\Models\\Users.cs",
               "RelativeDocumentMoniker": "Models\\Users.cs",
@@ -79,11 +131,12 @@
               "RelativeToolTip": "Models\\Users.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T05:32:17.852Z"
+              "WhenOpened": "2025-01-02T05:32:17.852Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "IMS Api",
               "DocumentMoniker": "C:\\Users\\jatabilog\\Desktop\\My Projects\\IMS Api\\IMS Api.csproj",
               "RelativeDocumentMoniker": "IMS Api.csproj",

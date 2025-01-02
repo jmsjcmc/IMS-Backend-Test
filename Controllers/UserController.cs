@@ -54,7 +54,6 @@ namespace IMS_Api.Controllers
             }
             catch (DbUpdateConcurrencyException)
             {
-                //return !UserExists(id) ? NotFound() : throw new DbUpdateConcurrencyException;
                 if (!UserExists(id))
                     return NotFound();
                 throw;
